@@ -1,5 +1,5 @@
-import 'package:account_app_template/common/theme_sets.dart';
-import 'package:account_app_template/common/combined_notifier.dart';
+import 'package:unit_life/common/theme_sets.dart';
+import 'package:unit_life/common/combined_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:provider/provider.dart';

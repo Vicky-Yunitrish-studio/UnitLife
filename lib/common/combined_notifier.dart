@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:account_app_template/common/theme_sets.dart';
+import 'package:unit_life/common/theme_sets.dart';
 import 'package:flutter/material.dart';
 
 class CombinedNotifier with ChangeNotifier {
